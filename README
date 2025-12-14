@@ -1,0 +1,7 @@
+1) Create a Repo Github
+2) AWS Access key and secret key
+3) Githib -> Secrets
+     github repo->settings->Secrets and variables->Actions->new repo secret
+4) Remote Backend - S3 bukcet
+5) Terraform code(1vpc/1subnet/1igw/1eigw)
+6) Github Workflow
